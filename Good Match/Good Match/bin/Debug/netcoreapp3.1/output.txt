@@ -1,0 +1,20 @@
+jack matches Kimberly 91%, good match
+Zack matches Kimberly 91%, good match
+Jason matches Trini 71%
+Jason matches Billy 71%
+Billy matches Trini 71%
+jack matches Trini 70%
+Zack matches Trini 70%
+Tommy matches Trini 62%
+Billy matches Billy 62%
+Zack matches Billy 61%
+Jason matches jill 61%
+jack matches Billy 61%
+Billy matches jill 61%
+jack matches jill 60%
+Zack matches jill 60%
+Tommy matches Billy 53%
+Tommy matches jill 52%
+Tommy matches Kimberly 20%
+Billy matches Kimberly 20%
+Jason matches Kimberly 20%
